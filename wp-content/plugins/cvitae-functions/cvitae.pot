@@ -1,0 +1,102 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: CVitae Functions\n"
+"POT-Creation-Date: 2016-08-15 21:33+0600\n"
+"PO-Revision-Date: 2016-08-15 21:33+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-WPHeader: portafolio-functions.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: portafolio-functions.php:26
+msgctxt "post type general name"
+msgid "Sections"
+msgstr ""
+
+#: portafolio-functions.php:27
+msgctxt "post type singular name"
+msgid "Sections"
+msgstr ""
+
+#: portafolio-functions.php:28
+msgctxt "admin menu"
+msgid "CVitae Sections"
+msgstr ""
+
+#: portafolio-functions.php:29
+msgctxt "add new on admin bar"
+msgid "Sections"
+msgstr ""
+
+#: portafolio-functions.php:30
+msgctxt "section"
+msgid "Add New"
+msgstr ""
+
+#: portafolio-functions.php:31
+msgid "Add New Sections"
+msgstr ""
+
+#: portafolio-functions.php:32
+msgid "New Sections"
+msgstr ""
+
+#: portafolio-functions.php:33
+msgid "Edit Sections"
+msgstr ""
+
+#: portafolio-functions.php:34
+msgid "View Sections"
+msgstr ""
+
+#: portafolio-functions.php:35
+msgid "All Sections"
+msgstr ""
+
+#: portafolio-functions.php:36
+msgid "Search Sections"
+msgstr ""
+
+#: portafolio-functions.php:37
+msgid "Parent Sections:"
+msgstr ""
+
+#: portafolio-functions.php:38
+msgid "No sections found."
+msgstr ""
+
+#: portafolio-functions.php:39
+msgid "No sections found in Trash."
+msgstr ""
+
+#: portafolio-functions.php:44
+msgid "CVitae sections."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "CVitae Functions"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "CVitae custom post type & functions plugins"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Themeocp"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.themecop.com"
+msgstr ""

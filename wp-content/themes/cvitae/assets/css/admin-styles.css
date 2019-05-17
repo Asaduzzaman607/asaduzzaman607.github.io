@@ -1,0 +1,37 @@
+.cvitae-icon-link {
+    margin-bottom: 20px;
+}
+
+.cvitae-icon-link:after {
+    clear: both;
+    content: '';
+    display: table;
+    float: none;
+}
+
+.cvitae-icon-link .label {
+    display: inline-block;
+    margin-bottom: 5px;
+    text-align: right;
+    width: 30%;
+}
+
+.cvitae-icon-link .input {
+    margin-bottom: 10px;
+    width: 68%;
+}
+
+.cvitae-icon-link .icon-remove {
+    color: red;
+    cursor: pointer;
+    float: right;
+}
+
+.add_icon_link {
+	background: gray;
+	color: #fff;
+	cursor: pointer;
+	display: inline-block;
+	margin-top: 10px;
+	padding: 5px 10px;
+}
